@@ -1,5 +1,6 @@
 # Person and Alien
-![Ancient-Aliens-Meme-600x338](https://user-images.githubusercontent.com/20710327/62480203-72b00500-b76c-11e9-8cb6-e8cbf73203a1.jpg)
+
+![Aliens](https://media.giphy.com/media/LnR2W4hBw4Xup3z8Ed/giphy.gif)
 
 
 ## Installation Steps
