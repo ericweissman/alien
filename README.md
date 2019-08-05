@@ -1,5 +1,7 @@
 # Person and Alien
 
+https://media.giphy.com/media/LnR2W4hBw4Xup3z8Ed/giphy.mp4
+
 ## Installation Steps
 
 1. Clone the repo
